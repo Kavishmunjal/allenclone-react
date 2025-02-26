@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+.navbar{
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px 70px; 
+    gap: 1px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-family: "Inter", sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.logo{
+    color: #000;
+
+    
+}
+
+.course{
+    color: black;
+    text-decoration: none;
+    margin-top: 8px;
+    
+}
+.course:hover{
+    color: black;
+    text-decoration: blue underline 5px ;
+    margin-top: 8px;
+    
+}
+
+.test{
+    color: black;
+    text-decoration: none;
+    margin-top: 8px;
+}
+.test:hover{
+    color: black;
+    text-decoration: blue underline 5px ;
+    margin-top: 8px;
+    
+}
+
+.scholarship{
+    color: black;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.scholarship:hover{
+    color: black;
+    text-decoration: blue underline 5px ;
+    margin-top: 8px;
+    
+}
+
+.results{
+    color: black;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.results:hover{
+    color: black;
+    text-decoration: blue underline 5px ;
+    margin-top: 8px;
+    
+}
+
+
+.about{
+    color: black;
+    text-decoration: none;
+    margin-top: 8px;
+}
+
+.about:hover{
+    color: black;
+    text-decoration: blue underline 5px ;
+    margin-top: 8px;
+    
+}
